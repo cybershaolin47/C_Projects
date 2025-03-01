@@ -1,1 +1,1 @@
-First C Program. A simple "Hello World" program
+First C Program. A simple "Hello World" program.
